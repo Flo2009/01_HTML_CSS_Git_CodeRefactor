@@ -15,8 +15,22 @@ The website has links that take you to the subjects below. In the images below I
 ![HTML](homepage/assets/images/screenshot_2.png)
 ![CSS](homepage/assets/images/screenshot_3.png)
 
+## Credits
+
+The code used in this repo was provided and is part of a bootcamp from Columbia University. The code was only modified.
+
+The following websites were used for the assignment:
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+https://www.w3schools.com/html/html_attributes.asp
+
+
 ## Features
 
 Links in the header of the website will take you to the subjects below
+Test it out, here is the website link:
+
+https://flo2009.github.io/01_HTML_CSS_Git_CodeRefactor/
 
 

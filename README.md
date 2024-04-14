@@ -11,9 +11,9 @@
 
 The website has links that take you to the subjects below. In the images below I also show part of the code modifications that have been made.
 
-![webpage](homepage/assets/images/screenshot_1.png)
-![HTML](homepage/assets/images/screenshot_2.png)
-![CSS](homepage/assets/images/screenshot_3.png)
+![webpage](assets/images/screenshot_1.png)
+![HTML](assets/images/screenshot_2.png)
+![CSS](assets/images/screenshot_3.png)
 
 ## Credits
 
